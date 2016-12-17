@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\Lab5\_Server1\bin\Debug\_Server1.exe.config
+C:\Users\DELL\Desktop\Lab5\_Server1\bin\Debug\_Server1.exe
+C:\Users\DELL\Desktop\Lab5\_Server1\bin\Debug\_Server1.pdb
+C:\Users\DELL\Desktop\Lab5\_Server1\obj\Debug\_Server1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Lab5\_Server1\obj\Debug\_Server1.Properties.Resources.resources
+C:\Users\DELL\Desktop\Lab5\_Server1\obj\Debug\_Server1.Server.resources
+C:\Users\DELL\Desktop\Lab5\_Server1\obj\Debug\_Server1.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Lab5\_Server1\obj\Debug\_Server1.exe
+C:\Users\DELL\Desktop\Lab5\_Server1\obj\Debug\_Server1.pdb
