@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\lab5_giaithua\client\bin\Debug\client.exe.config
+C:\Users\DELL\Desktop\lab5_giaithua\client\bin\Debug\client.exe
+C:\Users\DELL\Desktop\lab5_giaithua\client\bin\Debug\client.pdb
+C:\Users\DELL\Desktop\lab5_giaithua\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\lab5_giaithua\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\DELL\Desktop\lab5_giaithua\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\lab5_giaithua\client\obj\Debug\client.exe
+C:\Users\DELL\Desktop\lab5_giaithua\client\obj\Debug\client.pdb
+C:\Users\DELL\Desktop\lab5_giaithua\client\obj\Debug\client.clientGT.resources
